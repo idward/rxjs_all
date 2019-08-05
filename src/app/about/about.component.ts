@@ -12,6 +12,5 @@ export class AboutComponent implements OnInit {
   constructor(private apiService: ApiService) {}
 
   ngOnInit() {
-   
   }
 }
